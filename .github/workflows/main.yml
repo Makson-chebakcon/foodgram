@@ -66,4 +66,4 @@ jobs:
         with:
           context: ./frontend/
           push: true
-          tags: directordeda/foodgram_frontend_redcherry:latest
+          tags: redcherry15655/foodgram_frontend_redcherry:latest
